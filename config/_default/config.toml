@@ -1,0 +1,3 @@
+baseURL = "/"
+disableKinds = ["RSS", "taxonomyTerm"]
+enableMissingTranslationPlaceholders = true
